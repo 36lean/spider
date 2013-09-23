@@ -1,0 +1,86 @@
+v1.1.4
+1) Use imagesloaded to fix Masonry grid issues.
+2) Sperate Masonry mobile layout options.
+3) Move pagination/nav to footer.
+4) Separate Masonry pagination/nav.
+5) Remove interchange thumbnail filter for masonry template part
+6) Left hand margin fixes.
+
+v1.1.3
+1) Fixed Foundation reinitialization in ajax menu loads issue.
+
+v1.1.2
+1) Use interchange when Masonry is running.
+2) Special masonry nav and fixes for ordinary nav.
+3) Fixed issue where masonry content escaped maonsry container.
+
+v1.1.1
+1) Importe ul/ol margins.
+2) Changed themeURI
+3) Translation domain fixes.
+4) In content-single, thumbnail links to source not the post we are already on.
+5) Fix for default widget header levels.
+6) The lost v1.1.0 Changelog update.
+
+v1.1.0
+1) Upgrade to masonry 3 and improve masonry functionality.
+2) Support for Theme Hook Alliance hooks.
+3) Improved ajax menu callback handling.
+4) Big fixes.
+5) Removed Infinite Scroll for now due to jQuery compatibility issues.
+6) Upgraded Foundation JS to 4.2.
+7) Layout fixes and improvements.
+
+v1.0.5.2
+1) Improved sidebar postion functions by:
+	-Removing default value for sidebar default in customizer
+	-Adding a function to translate values from dropdown (value1, value2, value3) into left, right, none.
+2) Fixed the conditionals for enquueing masonry.
+
+v1.0.5.2
+1) Dumped js files that were recently rendered obsolete.
+
+v1.0.5.1
+1) Even more color options via the customizer.
+2) Full screen image background option. Can also be used for adding a background image to the header and footer.
+3) Responsive image sizing via Foundation's [Interchange](http://foundation.zurb.com/docs/components/interchange.html).
+4) Functions.php broken up into several files included files for ease of use and child theme override.
+5) Broke up all script enqueues into separate functions, along with initialization functions so they each have their own action that can be removed by child theme, as well as to improve performance.
+6) Added ability to use Masonry for blog.
+7) Separate background image options for header and content area.
+8) Sanitization functions for customizer. <em>Done</em>.
+9) Additional links to customizer. <em>Done</em>.
+10) Functions/ options to move sidebar from left to right, or remove it via option. Can be overridden in templates.
+11) Hellabug fixes.
+
+v1.0.5 (never really finished.)
+1) More color options.
+2) Fullscreen background image.
+3) Some other stupid shit that didn't really work.
+
+v1.0.4.1
+Fixes for silly bugs and visual issues.
+
+v1.0.4
+1) Fix sticky post, extra stickyness issue.
+
+v1.0.3
+1) AJAX page loading. 
+2) Option via customizer to disable AJAX page loads and Infinite Scrolling.
+3) Add history.js from Browser states for those AJAX page loads to work and stuff.
+
+v1.0.2
+1) Fixing issue with menu bar overlapping site description div with certain settings.
+2) Add some instructions in themes page. Including a link to theme documentation, which I promise to write soon.
+3) Other various bug fixes I can't remember.
+
+v1.0.1
+* Added optional home page slider with options to:
+1) Hide the slider
+2) Set the category for the slider
+3) Set the number of posts in the slider.
+* Modified menu to allow for user options (via customizer) to:
+1) Move site name into menu bar and the description of site below it.
+2) Make menu bar sticky
+3) Stick the menu bar to the top of the browser window.
+* Fixed bugs with menu mobile toggling and initialization of Foundation JS.

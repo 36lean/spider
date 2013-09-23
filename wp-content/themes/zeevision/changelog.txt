@@ -1,0 +1,15 @@
+===================================
+zeeVision Changelog
+===================================
+
+Version 1.0.2
+-----------------------------------
+[added] unique name for theme options array in the database
+
+Version 1.0.1
+-----------------------------------
+[fixed] comment template
+
+Version 1.0
+-----------------------------------
+Final Version

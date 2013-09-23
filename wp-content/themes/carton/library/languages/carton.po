@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: carton/search.php:8
+msgid " search results for"
+msgstr ""
+
+#. Text in function
+#: carton/content-header.php:25
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:250
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: carton/library/preview-pro.php:40
+msgid "%s can help take your website to the next level. Here\\'s a list of some of the advanced features."
+msgstr ""
+
+#. Text in function
+#: carton/footer.php:14
+msgid "%s created by %s."
+msgstr ""
+
+#. Text in function
+#: carton/single.php:16
+msgid "%title &rarr;"
+msgstr ""
+
+#. Text in function
+#: carton/single.php:15
+msgid "&larr; %title"
+msgstr ""
+
+#. Text in function
+#: carton/comments.php:39
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:387
+msgid "&larr; Older posts"
+msgstr ""
+
+#. Text in function
+#: carton/single.php:12
+msgid "&larr; Previous Image"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:250
+#: carton/functions.php:274
+#: carton/content-footer.php:9
+msgid "(edit)"
+msgstr ""
+
+#. Text in function
+#: carton/content-header.php:25
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: carton/content-header.php:25
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: carton/404.php:8
+msgid "404 Error"
+msgstr ""
+
+#. Text in echo
+#: carton/sidebar.php:15
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: carton/content-aside.php:11
+msgid "Aside"
+msgstr ""
+
+#. Text in function
+#: carton/archive.php:16
+msgid "Author Archive for %s"
+msgstr ""
+
+#. Text in echo
+#: carton/archive.php:26
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: carton/library/preview-pro.php:52
+msgid "Buy %s Now &rarr;"
+msgstr ""
+
+#. Text in echo
+#: carton/comments.php:38
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: carton/comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: carton/footer.php:13
+msgid "Copyright &copy; %s %s. All Rights Reserved."
+msgstr ""
+
+#. Text in function
+#: carton/archive.php:20
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:104
+msgid "First Sidebar"
+msgstr ""
+
+#. Text in echo
+#: carton/content-link.php:11
+msgid "Link"
+msgstr ""
+
+#. Text in echo
+#: carton/header.php:49
+msgid "Main menu"
+msgstr ""
+
+#. Text in echo
+#: carton/sidebar.php:6
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: carton/archive.php:22
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: carton/comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:387
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#. Text in function
+#: carton/single.php:13
+msgid "Next Image &rarr;"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:104
+msgid "No more posts."
+msgstr ""
+
+#. Text in echo
+#: carton/search.php:38
+msgid "No results were found for your search. Please try again."
+msgstr ""
+
+#. Text in echo
+#: carton/content-none.php:12
+msgid "No results were found. Please try again."
+msgstr ""
+
+#. Text in echo
+#: carton/content-none.php:9
+#: carton/search.php:34
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:104
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: carton/content-footer.php:9
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: carton/content-gallery.php:30
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: carton/functions.php:274
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: carton/functions.php:386
+#: carton/single.php:10
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: carton/content-status.php:19
+msgid "Posted on %1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: carton/content-header.php:25
+msgid "Posts by %s"
+msgstr ""
+
+#. Text in function
+#: carton/library/preview-pro.php:1
+msgid "Preview %s Pro"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:276
+#: carton/content-link.php:14
+#: carton/content-status.php:22
+#: carton/content-image.php:14
+#: carton/content-quote.php:13
+#: carton/content-aside.php:14
+#: carton/content.php:10
+msgid "Read more &rarr;"
+msgstr ""
+
+#. Text in echo
+#: carton/header.php:50
+msgid "Skip to content"
+msgstr ""
+
+#. Text in echo
+#: carton/404.php:11
+msgid "Sorry. We can't seem to find the page you are looking for."
+msgstr ""
+
+#. Text in echo
+#: carton/content-status.php:12
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: carton/archive.php:18
+msgid "Tag Archive for %s"
+msgstr ""
+
+#. Text in function
+#: carton/content-footer.php:9
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:104
+msgid "This is the sidebar widgetized area. All defaults widgets work great here."
+msgstr ""
+
+#. Text in echo
+#: carton/comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: carton/archive.php:24
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: carton/functions.php:256
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: carton/content-header.php:25
+msgid "by %s"
+msgstr ""
